@@ -5,5 +5,6 @@ High-level explanation:
 - find origin point of input geometry and give it a ground plane 
 - divide curve and populate with perpendicular planes. 
 - orient geometry from origin plane to curve planes using orient component
-
+![rhino](object_along_curve_rhino.png)
 ![grasshopper](object_along_curve.png)
+
