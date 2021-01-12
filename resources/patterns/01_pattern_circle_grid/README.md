@@ -5,4 +5,4 @@ Populates grid with circles, shatter the circles into segments.
 
 # Want
 
-Generation of pattern using sorting and random picking (?)
+Generation of pattern using sorting and random picking (?). Have started to have some success with this, and I'm seeing some fun patterns. Will return in future
