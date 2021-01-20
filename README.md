@@ -2,7 +2,7 @@
 
 ![](https://github.com/STUDIOFRES/fab_workflows/raw/master/resources/patterns/01_pattern_circle_grid/01_pattern_circle_01.png)
 
-A currated collection of documented workflows for going from virtual to physical. Most examples lives inside of [Grasshopper](https://www.grasshopper3d.com) and renders its output to [Rhino](https://www.rhino3d.com). So far this looks like this: 
+A currated collection of documented workflows for going from virtual to physical. Most examples lives inside of [Grasshopper](https://www.grasshopper3d.com) and renders to [Rhino](https://www.rhino3d.com). So far this looks like this: 
 
 ## Creating Geometry
 - [Object along curve](https://github.com/STUDIOFRES/fab_workflows/tree/master/resources/basics/00_basics_object_along_curve)
