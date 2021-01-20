@@ -1,0 +1,14 @@
+{
+  "name": "coms",
+  "version": "1.0.0",
+  "description": "robots talks to rhino",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "frikk h fossdal",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^7.4.2"
+  }
+}
