@@ -1,0 +1,190 @@
+%!PS-Adobe-3.0
+%%Creator: Rhinoceros
+%%Title: (surface.)
+%%BoundingBox: 277 405 359 493
+%%DocumentProcessColors: Black
+%%DocumentNeededResources: procset Adobe_packedarray 2.0 0
+%%+ procset Adobe_cmykcolor 1.1 0
+%%+ procset Adobe_cshow 1.1 0
+%%+ procset Adobe_customcolor 1.0 0
+%%+ procset Adobe_typography_AI3 1.0 0
+%%+ procset Adobe_IllustratorA_AI3 1.0 0
+%AI3_ColorUsage: Color
+%AI3_TemplateBox: 288 384 288 384
+%AI3_TileBox: 0 0 576 768
+%AI3_DocumentPreview: None
+%%Template:
+%%PageOrigin:0 0
+%%EndComments
+%%BeginProlog
+%%IncludeResource: procset Adobe_packedarray 2.0 0
+Adobe_packedarray /initialize get exec
+%%IncludeResource: procset Adobe_cmykcolor 1.1 0
+%%IncludeResource: procset Adobe_cshow 1.1 0
+%%IncludeResource: procset Adobe_customcolor 1.0 0
+%%IncludeResource: procset Adobe_typography_AI3 1.0 0
+%%IncludeResource: procset Adobe_IllustratorA_AI3 1.0 0
+%%EndProlog
+%%BeginSetup
+Adobe_cmykcolor /initialize get exec
+Adobe_cshow /initialize get exec
+Adobe_customcolor /initialize get exec
+Adobe_typography_AI3 /initialize get exec
+Adobe_IllustratorA_AI3 /initialize get exec
+%%EndSetup
+%AI5_BeginLayer
+1 1 1 1 0 0 -1 0 0 0 Lb
+(Make2D::Visible::Curves) Ln
+0 A
+0 R
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+312.0490 452.9581 m
+278.0361 433.3207 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+358.3251 426.2406 m
+324.3122 445.8780 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+324.3122 406.6032 m
+324.3122 445.8780 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+312.0490 452.9581 m
+312.0490 492.2328 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+278.0361 433.3207 m
+278.0361 472.5955 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+358.3251 426.2406 m
+358.3251 465.5153 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+278.0361 472.5955 m
+324.3122 445.8780 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+278.0361 438.3971 m
+312.0490 458.0344 L
+313.9772 456.9212 L
+279.9643 437.2838 L
+281.8925 436.1706 L
+315.9054 455.8080 L
+317.8335 454.6947 L
+283.8206 435.0574 L
+285.7488 433.9442 L
+319.7617 453.5815 L
+321.6899 452.4683 L
+287.6770 432.8309 L
+289.6051 431.7177 L
+323.6180 451.3551 L
+325.5462 450.2418 L
+291.5333 430.6045 L
+293.4615 429.4912 L
+327.4744 449.1286 L
+329.4026 448.0154 L
+295.3896 428.3780 L
+297.3178 427.2648 L
+331.3307 446.9021 L
+333.2589 445.7889 L
+299.2460 426.1516 L
+301.1742 425.0383 L
+335.1871 444.6757 L
+337.1152 443.5625 L
+303.1023 423.9251 L
+305.0305 422.8119 L
+339.0434 442.4492 L
+340.9716 441.3360 L
+306.9587 421.6986 L
+308.8868 420.5854 L
+342.8997 440.2228 L
+344.8279 439.1095 L
+310.8150 419.4722 L
+312.7432 418.3589 L
+346.7561 437.9963 L
+348.6843 436.8831 L
+314.6713 417.2457 L
+316.5995 416.1325 L
+350.6124 435.7699 L
+352.5406 434.6566 L
+318.5277 415.0193 L
+320.4559 413.9060 L
+354.4688 433.5434 L
+356.3969 432.4302 L
+322.3840 412.7928 L
+324.3122 411.6796 L
+358.3251 431.3169 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+278.0361 433.3207 m
+324.3122 406.6032 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+324.3122 406.6032 m
+358.3251 426.2406 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+312.0490 492.2328 m
+278.0361 472.5955 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+358.3251 465.5153 m
+312.0490 492.2328 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+324.3122 445.8780 m
+358.3251 465.5153 L
+S
+LB
+%AI5_EndLayer--
+%%PageTrailer
+gsave annotatepage grestore showpage
+%%Trailer
+Adobe_IllustratorA_AI3 /terminate get exec
+Adobe_typography_AI3 /terminate get exec
+Adobe_customcolor /terminate get exec
+Adobe_cshow /terminate get exec
+Adobe_cmykcolor /terminate get exec
+Adobe_packedarray /terminate get exec
+%%EOF

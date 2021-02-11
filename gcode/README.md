@@ -7,3 +7,10 @@ Currently the workflows mainly revolve around a Ultimaker3, but should be easy e
 and here is the output in machine
 
 ![](img/ultimaker_grasshopper.gif)
+
+Here is a preview of calibration prints. The print makes it easy to see where the tool-head is too close or visa-versa. 
+
+![](img/ultimaker_print1.jpeg)
+
+![](img/ultimaker_print2.jpeg)
+
