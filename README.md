@@ -10,6 +10,7 @@ A currated collection of documented workflows for going from virtual to physical
 
 ## Creating Patterns
 - [Circle Grids](https://github.com/STUDIOFRES/fab_workflows/tree/master/resources/patterns/01_pattern_circle_grid)
+- [Differential Growth](https://github.com/STUDIOFRES/fab_workflows/tree/master/resources/patterns/3_linegrowth)
 
 ## Other things
 
