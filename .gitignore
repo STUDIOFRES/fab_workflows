@@ -1,2 +1,3 @@
 *.rhl
 *.log
+.DS_Store
