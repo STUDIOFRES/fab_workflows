@@ -8,8 +8,9 @@ The goal here is to talk to applications outside of Rhino, or let Rhino receive 
 - A node.js based Websocket Server
 - A nodejs based websocket client for debugging
 
-**Important:** You need to have the Bengesht plugin running in Grasshopper for this to work. 
-
+**Important:** 
+- You need to have the Bengesht plugin running in Grasshopper for this to work. 
+- remember to add `ws:` before ip adress
 ## Install nodejs stuff.
 
 1. clone repo
